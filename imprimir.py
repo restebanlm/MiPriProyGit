@@ -1,2 +1,2 @@
-def ver():
+def func():
     print("Hello World")

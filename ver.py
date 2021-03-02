@@ -1,2 +1,2 @@
-def func():
+def ver():
     print("Mostrando datos.")
